@@ -1,0 +1,6 @@
+{
+  "prettier.configPath": "c:\\dev\\project\\develops_today_task\\.prettierrc.json",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.useTabs": true,
+  "prettier.tabWidth": 4
+}
